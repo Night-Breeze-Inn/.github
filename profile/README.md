@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../assets/Logo-dark.png">
-  <img src="../assets/logo-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/logo-dark.svg">
+  <img src="../assets/logo-light.svg">
 </picture>
 
 # Night Breeze Inn
