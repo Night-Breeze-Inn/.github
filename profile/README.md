@@ -22,3 +22,9 @@ Our main projects for now are:
 ## Contact
 
 If you want to contact us, feel free to send an email to <a mailto="thomas@mafille.net">thomas@mafille.net</a>
+
+## Acknowledgements
+
+> [!NOTE]
+> The logo was designed by @KoRIOz675.<br/>
+> The font used is [Merienda](https://fonts.google.com/specimen/Merienda)
