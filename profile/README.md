@@ -5,7 +5,8 @@
 
 # Night Breeze Inn
 
-Welcome to the **Night Breeze Inn** page.
+Welcome to the **Night Breeze Inn** page.<br/>
+https://night-breeze-inn.github.io
 
 ## Who we are ?
 
@@ -16,7 +17,7 @@ Night Breeze Inn (or for short NBI) is a small group created by @KoRIOz675 with 
 Our main projects for now are:
 
 * [Draconae Project](https://github.com/Night-Breeze-Inn/Draconae-Project) (A character Manager for D&D)
-* [Our website](https://github.com/Night-Breeze-Inn/website) (Still in developpement)
+* [Our website](https://github.com/Night-Breeze-Inn/night-breeze-inn.github.io) (Still in developpement)
 
 ## Contact
 
