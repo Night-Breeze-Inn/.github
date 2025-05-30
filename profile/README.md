@@ -6,7 +6,6 @@
 # Night Breeze Inn
 
 Welcome to the **Night Breeze Inn** page.<br/>
-https://night-breeze-inn.github.io
 
 ## Who we are ?
 
